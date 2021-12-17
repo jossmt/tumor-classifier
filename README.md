@@ -1,4 +1,4 @@
-# tumor-classifier
+# Tumor-classifier
 
 The purpose of this code is to solve the following tasks:
 
