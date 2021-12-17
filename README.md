@@ -19,3 +19,4 @@ Supplementary notes:
 - The data has been in some cases reformated and moved into a specific folder structure in order to readily be extracted and batched in tensorflow.
 
 Necessary packages:
+See file requirements.txt for all packages
